@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.4.5/themes/satellite-min.css" integrity="sha256-TehzF/2QvNKhGQrrNpoOb2Ck4iGZ1J/DI4pkd2oUsBc=" crossorigin="anonymous">
+  <link rel="stylesheet" href="assets/css/style.css"> 
+</head>
+<body>
+  <header>
+    <!--======== NAVBAR =======-->
+    <nav class="nav__bar" id="nav-bar">
+      <a href="{{ url_for('home') }}" class="link brand__name">INSTITUTION</a>
+    </nav>
+
+    <h2 class="home__text">institution student<br>management</h2>
+  </header>
+
+  <main>
+      <div id="search-box"></div>
+      <div id="hits"></div>
+      <div id="pagination"></div>
+  </main>
+  
+  <script type="text/html" id="hit-template">
+    <div class="top__info">
+      <div class="main__info">
+        <div class="image"></div>
+        <div class="general_info">
+          <h3 class="s__name">
+            {{#helpers.highlight}}{ "attribute": "name" }{{/helpers.highlight}}
+            {{#helpers.highlight}}{ "attribute": "surname" }{{/helpers.highlight}}
+          </h3>
+          <span class="fac__dep s_faculty">{{#helpers.highlight}}{ "attribute": "faculty" }{{/helpers.highlight}}</span><br>
+          <span class="fac__dep s_department">{{#helpers.highlight}}{ "attribute": "departement" }{{/helpers.highlight}}</span>
+        </div>
+      </div>
+      
+      <div class="bottom__info">
+        <h3 class="s__id_campus s__id">ID: {{#helpers.highlight}}{ "attribute": "student_id" }{{/helpers.highlight}}</h3>
+        <h3 class="s__id_campus s__campus">CAMPUS: {{#helpers.highlight}}{ "attribute": "campus" }{{/helpers.highlight}}</h3>
+      </div>
+    </div>
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
+  <script src="assets/js/app.js"></script>
+</body>

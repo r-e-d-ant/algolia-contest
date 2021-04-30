@@ -1,0 +1,243 @@
+
+
+
+/* -================ VARIABLE ================ */
+:root {
+    --primary-color: rgb(165, 153, 233);
+    --primary-color-alt: rgb();
+    --white-color: #f5f5f5;
+    --white-full-color-alt: rgb(239, 239, 250);
+    --white-full-color-alt-alt: rgb(210, 210, 247);
+    --dark-color: rgb(40, 40, 78);
+    --dark-color-alt: rgb(59, 59, 102);
+    --marker_felt-ff: "Marker Felt";
+}
+/* -================ BASE ================ */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ebebeb;
+    background-color: var(--white-full-color-alt);
+    background-color: var(--white-full-color-alt-alt);
+    font-family: sans-serif;
+    color: var(--dark-color);
+}
+
+
+/* -================ CLASSESS ================ */
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+    color: var(--dark-color);
+}
+.container {
+    padding: 2em 0.5em;
+}
+
+/*-- ============ CLASSESS ============= -*/
+@media screen and (min-width: 768px){
+    /*-========== CLASSESS =========-*/
+    .container {
+        padding: 2.5em 2em;;
+    }
+}
+
+/* -================ NAVBAR ================ */
+.nav__bar {
+    background-color: var(--primary-color);
+    background-color: var(--dark-color);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.2em 1em;
+    box-shadow: 0px 5px 20px rgb(0, 0, 0, 0.2);
+}
+.brand__name {
+    color: var(--dark-color-alt);
+    color: var(--primary-color);
+    font-family: var(--marker_felt-ff), sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    transition: 0.5s;
+}
+.brand__name:hover {
+    color: var(--dark-color);
+    color: var(--white-full-color-alt);
+}
+@media screen and (max-width: 768px){
+    .nav__menu {
+        z-index: 1000;
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 80%;
+        height: 100%;
+        line-height: 4em;
+        padding: 2rem;
+        background-color: var(--dark-color);
+        transition: .5s;
+    }
+}
+
+
+
+
+/* -================ HOME ================ */
+main {
+    padding: 10px;
+}
+
+
+.home {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 1em;
+}
+.home__text {
+    padding: 2em 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 0.3em;
+    line-height: 1.2em;
+    text-decoration: underline;
+}
+
+ol {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2em;
+}
+
+li {
+    list-style: none;
+}
+
+.ais-SearchBox-input {
+    grid-area: ais-SearchBox-input;
+    height: 2.5em;
+    font-size: 1.2em;
+    padding: 0 2em;
+    color: var(--dark-color);
+    background-color: rgb(202, 202, 247);
+    border: 2px solid var(--primary-color);
+    outline: none;
+    border-radius: 5px;
+    transition: .5s;
+}
+
+.ais-SearchBox-input:focus {
+    background-color: rgb(238, 235, 255);
+}
+
+
+.ais-Hits-item {
+    margin-top: 2em;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2em;
+}
+.ais-Hits-item {
+    cursor: pointer;
+    background-color: var(--primary-color);
+    border: thin solid rgb(0, 0, 0, 0.2);
+    border: thin solid rgb(40, 40, 78, 0.2);
+    border-radius: 5px;
+    box-shadow: 10px 10px 20px rgb(0, 0, 0, 0.2);
+    padding: 1em;
+    line-height: 2em;
+    transition: 0.5s;
+}
+.ais-Hits-item:hover {
+    background-color: var(--dark-color);
+    color: var(--white-color);
+    border: thin solid var(--white-full-color-alt);
+    transform: translateY(0.5em);
+}
+@media screen and (max-width: 768px){
+    .ais-Hits-item {
+        box-shadow: 0px 10px 20px rgb(0, 0, 0, 0.2);
+    }
+}
+
+
+.top__info {
+    display: flex;
+    flex-direction: column;
+    
+}
+.image {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: var(--white-full-color-alt-alt);
+    margin-right: 8em;
+}
+.main__info {
+    display: flex;
+}
+
+.s__name {
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.s__id_campus {
+    font-weight: 400;
+    font-size: 16px;
+    opacity: 0.8;
+    letter-spacing: 0.1em;
+}
+.fac__dep {
+    font-size: 14px;
+    text-transform: capitalize;
+    opacity: 0.6;
+    letter-spacing: 0.1em;
+}
+
+
+/* -================ FOOTER ================ */
+
+.ais-Pagination-list {
+    padding: 5em 5em;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    gap: 5px;
+}
+
+
+
+/* -================ MEDIA QUERIES ================ */
+@media screen and (min-width: 768px){
+    /* -================ NAVBAR ================ */
+    .nav__bar {
+        padding: 1.2em 2em;
+    }
+    .brand__name {
+        font-weight: 700;
+        font-size: 1.6em;
+    }
+    /* -================ HOME ================ */
+    main {
+        padding: 50px;
+    }
+    .home__text {
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 22px;
+        font-weight: 300;
+        letter-spacing: 0.3em;
+        line-height: 1.8em;
+    }
+}

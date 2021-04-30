@@ -1,0 +1,5690 @@
+[
+    {
+        "id": 1,
+        "name": "jeanne",
+        "surname": "doe",
+        "student_id": "2341",
+        "campus": "west",
+        "faculty": "info. technology",
+        "departement": "Networkings"
+    },
+    {
+        "id": 2,
+        "name": "course",
+        "surname": "not",
+        "student_id": "9593",
+        "campus": "west",
+        "faculty": "accounting",
+        "departement": "business administration"
+    },
+    {
+        "id": 3,
+        "name": "never",
+        "surname": "mind",
+        "student_id": "4424",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 4,
+        "name": "Trujillo",
+        "surname": "Hayden",
+        "student_id": "5225",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 5,
+        "name": "Greene",
+        "surname": "Estes",
+        "student_id": "7567",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 6,
+        "name": "Thompson",
+        "surname": "Wright",
+        "student_id": "6115",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 7,
+        "name": "Mcdonald",
+        "surname": "Mason",
+        "student_id": "4951",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 8,
+        "name": "Lee",
+        "surname": "Lane",
+        "student_id": "3370",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 9,
+        "name": "Hahn",
+        "surname": "Salas",
+        "student_id": "4256",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 10,
+        "name": "Peters",
+        "surname": "Arnold",
+        "student_id": "8830",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 11,
+        "name": "Davis",
+        "surname": "Cordova",
+        "student_id": "2395",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 12,
+        "name": "Black",
+        "surname": "Copeland",
+        "student_id": "5970",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 13,
+        "name": "Herrera",
+        "surname": "Morrow",
+        "student_id": "5944",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 14,
+        "name": "Collier",
+        "surname": "Townsend",
+        "student_id": "5782",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 15,
+        "name": "Webb",
+        "surname": "Krueger",
+        "student_id": "6826",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 16,
+        "name": "Bautista",
+        "surname": "Davis",
+        "student_id": "8204",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 17,
+        "name": "Chandler",
+        "surname": "Erickson",
+        "student_id": "5299",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 18,
+        "name": "Mcclain",
+        "surname": "Swanson",
+        "student_id": "2977",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 19,
+        "name": "Vincent",
+        "surname": "Foster",
+        "student_id": "5666",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 20,
+        "name": "Weber",
+        "surname": "Williams",
+        "student_id": "1356",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 21,
+        "name": "Reed",
+        "surname": "White",
+        "student_id": "5076",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 22,
+        "name": "Cantu",
+        "surname": "Ramos",
+        "student_id": "8664",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 23,
+        "name": "Richard",
+        "surname": "Galloway",
+        "student_id": "4957",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 24,
+        "name": "Gomez",
+        "surname": "Diaz",
+        "student_id": "1240",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 25,
+        "name": "Jackson",
+        "surname": "Fisher",
+        "student_id": "2467",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 26,
+        "name": "Gross",
+        "surname": "Moreno",
+        "student_id": "3216",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 27,
+        "name": "Vasquez",
+        "surname": "Shepherd",
+        "student_id": "8493",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 28,
+        "name": "Simon",
+        "surname": "Porter",
+        "student_id": "6525",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 29,
+        "name": "Williams",
+        "surname": "Daniel",
+        "student_id": "4010",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 30,
+        "name": "Ward",
+        "surname": "Gonzalez",
+        "student_id": "3322",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 31,
+        "name": "Thompson",
+        "surname": "Robbins",
+        "student_id": "9562",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 32,
+        "name": "Brewer",
+        "surname": "Graves",
+        "student_id": "3661",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 33,
+        "name": "Reynolds",
+        "surname": "Robles",
+        "student_id": "9480",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 34,
+        "name": "Anderson",
+        "surname": "Rodriguez",
+        "student_id": "6470",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 35,
+        "name": "Smith",
+        "surname": "Williams",
+        "student_id": "2194",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 36,
+        "name": "Cunningham",
+        "surname": "Gray",
+        "student_id": "6397",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 37,
+        "name": "Collins",
+        "surname": "Dean",
+        "student_id": "7745",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 38,
+        "name": "Barrera",
+        "surname": "Ellis",
+        "student_id": "7570",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 39,
+        "name": "Taylor",
+        "surname": "Jacobs",
+        "student_id": "3812",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 40,
+        "name": "Alvarez",
+        "surname": "Kelly",
+        "student_id": "4200",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 41,
+        "name": "Green",
+        "surname": "Nixon",
+        "student_id": "1977",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 42,
+        "name": "Hinton",
+        "surname": "Gonzalez",
+        "student_id": "6955",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 43,
+        "name": "Holland",
+        "surname": "Stevens",
+        "student_id": "3323",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 44,
+        "name": "Little",
+        "surname": "Horton",
+        "student_id": "4396",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 45,
+        "name": "Lee",
+        "surname": "Smith",
+        "student_id": "3655",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 46,
+        "name": "Elliott",
+        "surname": "Fritz",
+        "student_id": "2530",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 47,
+        "name": "Smith",
+        "surname": "Park",
+        "student_id": "6097",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 48,
+        "name": "Smith",
+        "surname": "Bowen",
+        "student_id": "3467",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 49,
+        "name": "Roberts",
+        "surname": "Allison",
+        "student_id": "2077",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 50,
+        "name": "Garcia",
+        "surname": "Little",
+        "student_id": "4754",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 51,
+        "name": "David",
+        "surname": "Hicks",
+        "student_id": "2129",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 52,
+        "name": "Hamilton",
+        "surname": "Christensen",
+        "student_id": "1351",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 53,
+        "name": "Parker",
+        "surname": "Bowers",
+        "student_id": "3853",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 54,
+        "name": "Ross",
+        "surname": "Nguyen",
+        "student_id": "7510",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 55,
+        "name": "Lara",
+        "surname": "Adams",
+        "student_id": "8843",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 56,
+        "name": "Patrick",
+        "surname": "Todd",
+        "student_id": "1032",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 57,
+        "name": "Rodriguez",
+        "surname": "Hansen",
+        "student_id": "1037",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 58,
+        "name": "Mack",
+        "surname": "Rodriguez",
+        "student_id": "9675",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 59,
+        "name": "Novak",
+        "surname": "Gonzalez",
+        "student_id": "4994",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 60,
+        "name": "Moore",
+        "surname": "Higgins",
+        "student_id": "5496",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 61,
+        "name": "Taylor",
+        "surname": "Joseph",
+        "student_id": "9497",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 62,
+        "name": "Tate",
+        "surname": "James",
+        "student_id": "8989",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 63,
+        "name": "Kim",
+        "surname": "Herrera",
+        "student_id": "8171",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 64,
+        "name": "Weiss",
+        "surname": "West",
+        "student_id": "6273",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 65,
+        "name": "Gregory",
+        "surname": "Baker",
+        "student_id": "4109",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 66,
+        "name": "Martinez",
+        "surname": "Blake",
+        "student_id": "6136",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 67,
+        "name": "Reid",
+        "surname": "Summers",
+        "student_id": "4845",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 68,
+        "name": "Garcia",
+        "surname": "Gross",
+        "student_id": "9082",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 69,
+        "name": "Estrada",
+        "surname": "Huffman",
+        "student_id": "6783",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 70,
+        "name": "Cannon",
+        "surname": "Barker",
+        "student_id": "1690",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 71,
+        "name": "Chan",
+        "surname": "Garcia",
+        "student_id": "6714",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 72,
+        "name": "Thomas",
+        "surname": "Graham",
+        "student_id": "9492",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 73,
+        "name": "Pope",
+        "surname": "Watkins",
+        "student_id": "8937",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 74,
+        "name": "Cruz",
+        "surname": "Gould",
+        "student_id": "6498",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 75,
+        "name": "Klein",
+        "surname": "Price",
+        "student_id": "4248",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 76,
+        "name": "Wallace",
+        "surname": "Allen",
+        "student_id": "7673",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 77,
+        "name": "Garcia",
+        "surname": "Elliott",
+        "student_id": "9910",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 78,
+        "name": "Graham",
+        "surname": "Mcmahon",
+        "student_id": "4340",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 79,
+        "name": "Bell",
+        "surname": "Howard",
+        "student_id": "2926",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 80,
+        "name": "Mclean",
+        "surname": "Lucas",
+        "student_id": "6154",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 81,
+        "name": "Williams",
+        "surname": "Ross",
+        "student_id": "4321",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 82,
+        "name": "Contreras",
+        "surname": "Melissa",
+        "student_id": "1898",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 83,
+        "name": "Johnson",
+        "surname": "Robinson",
+        "student_id": "1368",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 84,
+        "name": "Murphy",
+        "surname": "Flores",
+        "student_id": "4813",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 85,
+        "name": "Harris",
+        "surname": "Thompson",
+        "student_id": "2806",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 86,
+        "name": "Moyer",
+        "surname": "Oliver",
+        "student_id": "9371",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 87,
+        "name": "Martinez",
+        "surname": "Wood",
+        "student_id": "7293",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 88,
+        "name": "Mason",
+        "surname": "Pratt",
+        "student_id": "7705",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 89,
+        "name": "Mclaughlin",
+        "surname": "Hayes",
+        "student_id": "9272",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 90,
+        "name": "Ortega",
+        "surname": "Barr",
+        "student_id": "4904",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 91,
+        "name": "Chavez",
+        "surname": "Martin",
+        "student_id": "6684",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 92,
+        "name": "Conner",
+        "surname": "Blanchard",
+        "student_id": "7182",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 93,
+        "name": "Young",
+        "surname": "Wilson",
+        "student_id": "8280",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 94,
+        "name": "Garcia",
+        "surname": "Torres",
+        "student_id": "9878",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 95,
+        "name": "Johnson",
+        "surname": "Zavala",
+        "student_id": "1227",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 96,
+        "name": "Sexton",
+        "surname": "Wade",
+        "student_id": "3368",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 97,
+        "name": "Robinson",
+        "surname": "Wiggins",
+        "student_id": "4045",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 98,
+        "name": "Wilson",
+        "surname": "Santiago",
+        "student_id": "2007",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 99,
+        "name": "Chen",
+        "surname": "Gregory",
+        "student_id": "1690",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 100,
+        "name": "Stokes",
+        "surname": "Lowery",
+        "student_id": "8198",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 101,
+        "name": "Hunter",
+        "surname": "Perez",
+        "student_id": "1556",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 102,
+        "name": "Moss",
+        "surname": "Aguilar",
+        "student_id": "4504",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 103,
+        "name": "Collier",
+        "surname": "Moreno",
+        "student_id": "5273",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 104,
+        "name": "Potter",
+        "surname": "Howard",
+        "student_id": "5310",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 105,
+        "name": "Mahoney",
+        "surname": "Brown",
+        "student_id": "7737",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 106,
+        "name": "William",
+        "surname": "Barker",
+        "student_id": "1093",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 107,
+        "name": "Patterson",
+        "surname": "Trevino",
+        "student_id": "8565",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 108,
+        "name": "Moore",
+        "surname": "Mitchell",
+        "student_id": "7544",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 109,
+        "name": "Nelson",
+        "surname": "Chen",
+        "student_id": "8822",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 110,
+        "name": "Hughes",
+        "surname": "Castro",
+        "student_id": "7494",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 111,
+        "name": "Young",
+        "surname": "Greene",
+        "student_id": "5129",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 112,
+        "name": "Gibbs",
+        "surname": "Lynn",
+        "student_id": "1411",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 113,
+        "name": "Medina",
+        "surname": "Baker",
+        "student_id": "8152",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 114,
+        "name": "Burns",
+        "surname": "Gonzalez",
+        "student_id": "9686",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 115,
+        "name": "Miller",
+        "surname": "Gutierrez",
+        "student_id": "1178",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 116,
+        "name": "Bush",
+        "surname": "Curtis",
+        "student_id": "6377",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 117,
+        "name": "Thompson",
+        "surname": "Perez",
+        "student_id": "5557",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 118,
+        "name": "Harris",
+        "surname": "Martinez",
+        "student_id": "2433",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 119,
+        "name": "Phillips",
+        "surname": "Hampton",
+        "student_id": "2805",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 120,
+        "name": "Hogan",
+        "surname": "Shaw",
+        "student_id": "3842",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 121,
+        "name": "Hampton",
+        "surname": "Patrick",
+        "student_id": "7685",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 122,
+        "name": "Turner",
+        "surname": "Bruce",
+        "student_id": "1312",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 123,
+        "name": "Sanchez",
+        "surname": "Moore",
+        "student_id": "1452",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 124,
+        "name": "Warner",
+        "surname": "Lopez",
+        "student_id": "7723",
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 125,
+        "name": "Williams",
+        "surname": "Smith",
+        "student_id": "3727",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 126,
+        "name": "Barnett",
+        "surname": "Bauer",
+        "student_id": "9657",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 127,
+        "name": "Grant",
+        "surname": "Prince",
+        "student_id": "6089",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 128,
+        "name": "Carrillo",
+        "surname": "Kemp",
+        "student_id": "3537",
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 129,
+        "name": "Delacruz",
+        "surname": "Waters",
+        "student_id": "4405",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 130,
+        "name": "Baker",
+        "surname": "Williams",
+        "student_id": "2373",
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 131,
+        "name": "Tate",
+        "surname": "Terry",
+        "student_id": "7584",
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 132,
+        "name": "Elliott",
+        "surname": "Gonzalez",
+        "student_id": 4181,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 133,
+        "name": "Little",
+        "surname": "Watson",
+        "student_id": 3163,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 134,
+        "name": "Cline",
+        "surname": "Lewis",
+        "student_id": 8683,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 135,
+        "name": "Mcneil",
+        "surname": "Jones",
+        "student_id": 5456,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 136,
+        "name": "Warren",
+        "surname": "Mccarthy",
+        "student_id": 8971,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 137,
+        "name": "Williams",
+        "surname": "Knight",
+        "student_id": 3921,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 138,
+        "name": "Chandler",
+        "surname": "Mccarthy",
+        "student_id": 9620,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 139,
+        "name": "Miller",
+        "surname": "Mcconnell",
+        "student_id": 2559,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 140,
+        "name": "Jarvis",
+        "surname": "Jones",
+        "student_id": 4525,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 141,
+        "name": "Campbell",
+        "surname": "Carr",
+        "student_id": 5863,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 142,
+        "name": "Nguyen",
+        "surname": "Richards",
+        "student_id": 6072,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 143,
+        "name": "Lane",
+        "surname": "Mayer",
+        "student_id": 3166,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 144,
+        "name": "Stark",
+        "surname": "Hanna",
+        "student_id": 1476,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 145,
+        "name": "Montoya",
+        "surname": "Adams",
+        "student_id": 1414,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 146,
+        "name": "Floyd",
+        "surname": "Rose",
+        "student_id": 9418,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 147,
+        "name": "Hill",
+        "surname": "Cruz",
+        "student_id": 4859,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 148,
+        "name": "Nicholas",
+        "surname": "Farrell",
+        "student_id": 6742,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 149,
+        "name": "Gentry",
+        "surname": "Chang",
+        "student_id": 3840,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 150,
+        "name": "Ellis",
+        "surname": "Powers",
+        "student_id": 8260,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 151,
+        "name": "Copeland",
+        "surname": "Newman",
+        "student_id": 9931,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 152,
+        "name": "Hendricks",
+        "surname": "Smith",
+        "student_id": 6590,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 153,
+        "name": "Schneider",
+        "surname": "Johnson",
+        "student_id": 5066,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 154,
+        "name": "Elliott",
+        "surname": "Barber",
+        "student_id": 4495,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 155,
+        "name": "Miguel",
+        "surname": "Guerra",
+        "student_id": 5226,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 156,
+        "name": "Vincent",
+        "surname": "Parrish",
+        "student_id": 8896,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 157,
+        "name": "Morgan",
+        "surname": "Armstrong",
+        "student_id": 5861,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 158,
+        "name": "Jackson",
+        "surname": "Smith",
+        "student_id": 7457,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 159,
+        "name": "Cox",
+        "surname": "Mccoy",
+        "student_id": 6928,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 160,
+        "name": "Mejia",
+        "surname": "Grant",
+        "student_id": 8358,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 161,
+        "name": "Mcclure",
+        "surname": "Bishop",
+        "student_id": 8737,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 162,
+        "name": "Williams",
+        "surname": "Mullen",
+        "student_id": 1241,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 163,
+        "name": "Wright",
+        "surname": "Hancock",
+        "student_id": 1054,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 164,
+        "name": "Burgess",
+        "surname": "Holloway",
+        "student_id": 4780,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 165,
+        "name": "Ross",
+        "surname": "Herman",
+        "student_id": 3163,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 166,
+        "name": "Nicholson",
+        "surname": "Horne",
+        "student_id": 4697,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 167,
+        "name": "Doyle",
+        "surname": "Simmons",
+        "student_id": 9376,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 168,
+        "name": "Blankenship",
+        "surname": "Rojas",
+        "student_id": 9563,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 169,
+        "name": "Arroyo",
+        "surname": "Russell",
+        "student_id": 2542,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 170,
+        "name": "Scott",
+        "surname": "Brown",
+        "student_id": 1192,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 171,
+        "name": "Winters",
+        "surname": "Nguyen",
+        "student_id": 1361,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 172,
+        "name": "Anthony",
+        "surname": "Kramer",
+        "student_id": 4917,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 173,
+        "name": "Anderson",
+        "surname": "Simmons",
+        "student_id": 1358,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 174,
+        "name": "Johnson",
+        "surname": "Berry",
+        "student_id": 1737,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 175,
+        "name": "Mueller",
+        "surname": "Wood",
+        "student_id": 8373,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 176,
+        "name": "Daniels",
+        "surname": "Williamson",
+        "student_id": 8945,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 177,
+        "name": "Manning",
+        "surname": "Richardson",
+        "student_id": 1286,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 178,
+        "name": "Hamilton",
+        "surname": "Benton",
+        "student_id": 1355,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 179,
+        "name": "Murphy",
+        "surname": "Daniels",
+        "student_id": 4258,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 180,
+        "name": "Anderson",
+        "surname": "Ayala",
+        "student_id": 9750,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 181,
+        "name": "Christensen",
+        "surname": "Powell",
+        "student_id": 2591,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 182,
+        "name": "Adams",
+        "surname": "Sheppard",
+        "student_id": 2032,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 183,
+        "name": "Mcclure",
+        "surname": "Taylor",
+        "student_id": 2887,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 184,
+        "name": "Roth",
+        "surname": "Sherman",
+        "student_id": 8843,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 185,
+        "name": "Travis",
+        "surname": "Jennings",
+        "student_id": 3722,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 186,
+        "name": "Vega",
+        "surname": "Jasmine",
+        "student_id": 7150,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 187,
+        "name": "Adams",
+        "surname": "Bridget",
+        "student_id": 7484,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 188,
+        "name": "Trujillo",
+        "surname": "Frye",
+        "student_id": 7644,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 189,
+        "name": "Richards",
+        "surname": "Hays",
+        "student_id": 1541,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 190,
+        "name": "Jones",
+        "surname": "Barrett",
+        "student_id": 3299,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 191,
+        "name": "Sweeney",
+        "surname": "Jeffrey",
+        "student_id": 5758,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 192,
+        "name": "Hull",
+        "surname": "Lee",
+        "student_id": 5743,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 193,
+        "name": "Velez",
+        "surname": "Martin",
+        "student_id": 8532,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 194,
+        "name": "Moore",
+        "surname": "Murphy",
+        "student_id": 2460,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 195,
+        "name": "Dillon",
+        "surname": "Haynes",
+        "student_id": 1232,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 196,
+        "name": "Bauer",
+        "surname": "Williams",
+        "student_id": 9803,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 197,
+        "name": "Williamson",
+        "surname": "Scott",
+        "student_id": 8931,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 198,
+        "name": "Payne",
+        "surname": "Barber",
+        "student_id": 5086,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 199,
+        "name": "Gibson",
+        "surname": "Morales",
+        "student_id": 9746,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 200,
+        "name": "Morris",
+        "surname": "Kennedy",
+        "student_id": 5825,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 201,
+        "name": "Pennington",
+        "surname": "Phillips",
+        "student_id": 8059,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 202,
+        "name": "Cooper",
+        "surname": "Washington",
+        "student_id": 6360,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 203,
+        "name": "Thomas",
+        "surname": "James",
+        "student_id": 4333,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 204,
+        "name": "Torres",
+        "surname": "Jones",
+        "student_id": 3016,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 205,
+        "name": "Gonzalez",
+        "surname": "Duran",
+        "student_id": 8519,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 206,
+        "name": "Davis",
+        "surname": "Williams",
+        "student_id": 1217,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 207,
+        "name": "Matthews",
+        "surname": "Gilbert",
+        "student_id": 2941,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 208,
+        "name": "Davis",
+        "surname": "Morris",
+        "student_id": 6874,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 209,
+        "name": "Williams",
+        "surname": "Manning",
+        "student_id": 5300,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 210,
+        "name": "Mitchell",
+        "surname": "Frazier",
+        "student_id": 9453,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 211,
+        "name": "Williams",
+        "surname": "Wallace",
+        "student_id": 4027,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 212,
+        "name": "Gonzalez",
+        "surname": "Johnson",
+        "student_id": 6654,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 213,
+        "name": "Thompson",
+        "surname": "Adam",
+        "student_id": 1190,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 214,
+        "name": "Dunlap",
+        "surname": "Murillo",
+        "student_id": 2922,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 215,
+        "name": "Gillespie",
+        "surname": "Jones",
+        "student_id": 5622,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 216,
+        "name": "Austin",
+        "surname": "Hanson",
+        "student_id": 5551,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 217,
+        "name": "Patel",
+        "surname": "Nguyen",
+        "student_id": 5523,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 218,
+        "name": "Dunn",
+        "surname": "Wu",
+        "student_id": 8775,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 219,
+        "name": "Evans",
+        "surname": "Nguyen",
+        "student_id": 9132,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 220,
+        "name": "Boyd",
+        "surname": "Trujillo",
+        "student_id": 5651,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 221,
+        "name": "Pena",
+        "surname": "Hansen",
+        "student_id": 4358,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 222,
+        "name": "Carlson",
+        "surname": "Leonard",
+        "student_id": 7115,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 223,
+        "name": "Gomez",
+        "surname": "Silva",
+        "student_id": 1917,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 224,
+        "name": "Davis",
+        "surname": "Mccullough",
+        "student_id": 6585,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 225,
+        "name": "Brown",
+        "surname": "Hubbard",
+        "student_id": 3217,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 226,
+        "name": "Mcmahon",
+        "surname": "West",
+        "student_id": 1985,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 227,
+        "name": "Daniels",
+        "surname": "Burton",
+        "student_id": 4064,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 228,
+        "name": "Holmes",
+        "surname": "Bowman",
+        "student_id": 8873,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 229,
+        "name": "Jacobs",
+        "surname": "Rogers",
+        "student_id": 3203,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 230,
+        "name": "Price",
+        "surname": "Conley",
+        "student_id": 9348,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 231,
+        "name": "Smith",
+        "surname": "Dean",
+        "student_id": 6716,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 232,
+        "name": "Goodman",
+        "surname": "Cross",
+        "student_id": 1619,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 233,
+        "name": "Drake",
+        "surname": "Arias",
+        "student_id": 5488,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 234,
+        "name": "Francis",
+        "surname": "Rogers",
+        "student_id": 4896,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 235,
+        "name": "Cox",
+        "surname": "Davis",
+        "student_id": 4586,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 236,
+        "name": "Kennedy",
+        "surname": "Taylor",
+        "student_id": 3814,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 237,
+        "name": "Harvey",
+        "surname": "Jones",
+        "student_id": 5382,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 238,
+        "name": "Campbell",
+        "surname": "Susan",
+        "student_id": 6361,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 239,
+        "name": "Craig",
+        "surname": "Allen",
+        "student_id": 6677,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 240,
+        "name": "Ramirez",
+        "surname": "Figueroa",
+        "student_id": 8510,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 241,
+        "name": "Scott",
+        "surname": "Lee",
+        "student_id": 5011,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 242,
+        "name": "Warner",
+        "surname": "Davis",
+        "student_id": 8557,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 243,
+        "name": "Harris",
+        "surname": "Williams",
+        "student_id": 2604,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 244,
+        "name": "Castaneda",
+        "surname": "Ferguson",
+        "student_id": 2868,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 245,
+        "name": "Martin",
+        "surname": "Taylor",
+        "student_id": 7242,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 246,
+        "name": "Stevens",
+        "surname": "Blake",
+        "student_id": 9321,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 247,
+        "name": "Hodges",
+        "surname": "Vega",
+        "student_id": 5439,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 248,
+        "name": "Paul",
+        "surname": "Miles",
+        "student_id": 9839,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 249,
+        "name": "Morris",
+        "surname": "Turner",
+        "student_id": 8268,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 250,
+        "name": "Arias",
+        "surname": "Martinez",
+        "student_id": 5609,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 251,
+        "name": "Jones",
+        "surname": "Walker",
+        "student_id": 2918,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 252,
+        "name": "Ross",
+        "surname": "Walsh",
+        "student_id": 3613,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 253,
+        "name": "Gonzales",
+        "surname": "Morales",
+        "student_id": 8589,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 254,
+        "name": "Lloyd",
+        "surname": "Phillips",
+        "student_id": 5461,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 255,
+        "name": "Miller",
+        "surname": "Ramos",
+        "student_id": 8854,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 256,
+        "name": "Mathews",
+        "surname": "Butler",
+        "student_id": 9323,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 257,
+        "name": "Gray",
+        "surname": "Sheppard",
+        "student_id": 4350,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 258,
+        "name": "Perez",
+        "surname": "Gonzalez",
+        "student_id": 9887,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 259,
+        "name": "Jordan",
+        "surname": "Yates",
+        "student_id": 1943,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 260,
+        "name": "Jarvis",
+        "surname": "Garcia",
+        "student_id": 2874,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 261,
+        "name": "Alvarez",
+        "surname": "Jones",
+        "student_id": 2243,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 262,
+        "name": "Hernandez",
+        "surname": "Murphy",
+        "student_id": 7373,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 263,
+        "name": "Downs",
+        "surname": "Peck",
+        "student_id": 7864,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 264,
+        "name": "Powell",
+        "surname": "Cooley",
+        "student_id": 3729,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 265,
+        "name": "Lopez",
+        "surname": "Bailey",
+        "student_id": 6933,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 266,
+        "name": "Clark",
+        "surname": "Quinn",
+        "student_id": 4283,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 267,
+        "name": "Bright",
+        "surname": "Williams",
+        "student_id": 7114,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 268,
+        "name": "Johnson",
+        "surname": "House",
+        "student_id": 1226,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 269,
+        "name": "Vargas",
+        "surname": "Brown",
+        "student_id": 2319,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 270,
+        "name": "Coleman",
+        "surname": "Barker",
+        "student_id": 7932,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 271,
+        "name": "Garcia",
+        "surname": "Malone",
+        "student_id": 5785,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 272,
+        "name": "Foley",
+        "surname": "Hernandez",
+        "student_id": 6217,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 273,
+        "name": "Mcneil",
+        "surname": "Riggs",
+        "student_id": 6737,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 274,
+        "name": "Stevens",
+        "surname": "Vaughan",
+        "student_id": 5811,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 275,
+        "name": "Garner",
+        "surname": "Bruce",
+        "student_id": 9646,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 276,
+        "name": "White",
+        "surname": "Mcmahon",
+        "student_id": 7634,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 277,
+        "name": "Keith",
+        "surname": "Fisher",
+        "student_id": 5845,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 278,
+        "name": "Jones",
+        "surname": "Martin",
+        "student_id": 3642,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 279,
+        "name": "Stout",
+        "surname": "Collins",
+        "student_id": 4045,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 280,
+        "name": "Chung",
+        "surname": "Kelly",
+        "student_id": 9960,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 281,
+        "name": "Molly",
+        "surname": "Murphy",
+        "student_id": 1155,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 282,
+        "name": "Craig",
+        "surname": "Francis",
+        "student_id": 7411,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 283,
+        "name": "Taylor",
+        "surname": "Mccormick",
+        "student_id": 3052,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 284,
+        "name": "May",
+        "surname": "Smith",
+        "student_id": 3693,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 285,
+        "name": "Stone",
+        "surname": "Hayes",
+        "student_id": 6255,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 286,
+        "name": "Martin",
+        "surname": "Martin",
+        "student_id": 9120,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 287,
+        "name": "Martinez",
+        "surname": "Stevens",
+        "student_id": 5503,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 288,
+        "name": "Pierce",
+        "surname": "Vaughn",
+        "student_id": 9472,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 289,
+        "name": "Brown",
+        "surname": "Moore",
+        "student_id": 9122,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 290,
+        "name": "Garcia",
+        "surname": "Davis",
+        "student_id": 8619,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 291,
+        "name": "Ayala",
+        "surname": "Castillo",
+        "student_id": 9760,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 292,
+        "name": "Campos",
+        "surname": "Edwards",
+        "student_id": 7320,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 293,
+        "name": "Jackson",
+        "surname": "Hernandez",
+        "student_id": 6596,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 294,
+        "name": "Wade",
+        "surname": "Goodman",
+        "student_id": 3065,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 295,
+        "name": "Rogers",
+        "surname": "Welch",
+        "student_id": 6919,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 296,
+        "name": "Thompson",
+        "surname": "Hernandez",
+        "student_id": 6242,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 297,
+        "name": "Ballard",
+        "surname": "Johnson",
+        "student_id": 8506,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 298,
+        "name": "Harvey",
+        "surname": "Smith",
+        "student_id": 2197,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 299,
+        "name": "Avila",
+        "surname": "Hudson",
+        "student_id": 5296,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 300,
+        "name": "Pierce",
+        "surname": "Hughes",
+        "student_id": 8172,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 301,
+        "name": "Krause",
+        "surname": "Mccoy",
+        "student_id": 7002,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 302,
+        "name": "Howard",
+        "surname": "Morgan",
+        "student_id": 5814,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 303,
+        "name": "Floyd",
+        "surname": "Payne",
+        "student_id": 7253,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 304,
+        "name": "Young",
+        "surname": "Romero",
+        "student_id": 3124,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 305,
+        "name": "Osborne",
+        "surname": "Jones",
+        "student_id": 3194,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 306,
+        "name": "Compton",
+        "surname": "Michael",
+        "student_id": 6314,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 307,
+        "name": "Levy",
+        "surname": "Patrick",
+        "student_id": 9525,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 308,
+        "name": "Allen",
+        "surname": "White",
+        "student_id": 7586,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 309,
+        "name": "Pacheco",
+        "surname": "Payne",
+        "student_id": 4253,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 310,
+        "name": "Mcbride",
+        "surname": "Griffin",
+        "student_id": 6657,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 311,
+        "name": "Sanders",
+        "surname": "Mejia",
+        "student_id": 1238,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 312,
+        "name": "Warren",
+        "surname": "Harris",
+        "student_id": 7588,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 313,
+        "name": "Graves",
+        "surname": "Calderon",
+        "student_id": 1899,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 314,
+        "name": "Moore",
+        "surname": "Robertson",
+        "student_id": 9299,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 315,
+        "name": "Williams",
+        "surname": "Compton",
+        "student_id": 9971,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 316,
+        "name": "Barker",
+        "surname": "Goodman",
+        "student_id": 5456,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 317,
+        "name": "Hampton",
+        "surname": "Mason",
+        "student_id": 9406,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 318,
+        "name": "Evans",
+        "surname": "Wilson",
+        "student_id": 7486,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 319,
+        "name": "Rodriguez",
+        "surname": "Alexander",
+        "student_id": 3583,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 320,
+        "name": "Lane",
+        "surname": "Martin",
+        "student_id": 1072,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 321,
+        "name": "Oliver",
+        "surname": "Stokes",
+        "student_id": 5953,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 322,
+        "name": "Coleman",
+        "surname": "Garcia",
+        "student_id": 2403,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 323,
+        "name": "Pierce",
+        "surname": "Johnson",
+        "student_id": 1180,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 324,
+        "name": "Nguyen",
+        "surname": "Stone",
+        "student_id": 7060,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 325,
+        "name": "Dixon",
+        "surname": "Warren",
+        "student_id": 8228,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 326,
+        "name": "Robertson",
+        "surname": "Holmes",
+        "student_id": 4280,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 327,
+        "name": "Waller",
+        "surname": "Thomas",
+        "student_id": 3620,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 328,
+        "name": "Payne",
+        "surname": "Williams",
+        "student_id": 8952,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 329,
+        "name": "Moore",
+        "surname": "Parks",
+        "student_id": 8733,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 330,
+        "name": "Quinn",
+        "surname": "Dalton",
+        "student_id": 2783,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 331,
+        "name": "Klein",
+        "surname": "Peters",
+        "student_id": 5588,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 332,
+        "name": "Gilmore",
+        "surname": "Calderon",
+        "student_id": 3637,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 333,
+        "name": "Rogers",
+        "surname": "Perkins",
+        "student_id": 1239,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 334,
+        "name": "Smith",
+        "surname": "Turner",
+        "student_id": 3401,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 335,
+        "name": "Hall",
+        "surname": "Cunningham",
+        "student_id": 1232,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 336,
+        "name": "Brown",
+        "surname": "Oconnor",
+        "student_id": 4026,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 337,
+        "name": "Warren",
+        "surname": "Pratt",
+        "student_id": 8168,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 338,
+        "name": "Williams",
+        "surname": "Young",
+        "student_id": 3113,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 339,
+        "name": "Young",
+        "surname": "Brennan",
+        "student_id": 7422,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 340,
+        "name": "Rodriguez",
+        "surname": "Johnson",
+        "student_id": 3092,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 341,
+        "name": "Jacobson",
+        "surname": "Rowe",
+        "student_id": 3921,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 342,
+        "name": "Miller",
+        "surname": "Brandt",
+        "student_id": 2488,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 343,
+        "name": "Anderson",
+        "surname": "Mcgee",
+        "student_id": 1544,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 344,
+        "name": "Wilson",
+        "surname": "Sanders",
+        "student_id": 7742,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 345,
+        "name": "Olson",
+        "surname": "Pennington",
+        "student_id": 5847,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 346,
+        "name": "Roach",
+        "surname": "Stone",
+        "student_id": 7126,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 347,
+        "name": "Burch",
+        "surname": "Strong",
+        "student_id": 4557,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 348,
+        "name": "Chavez",
+        "surname": "Robinson",
+        "student_id": 9837,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 349,
+        "name": "White",
+        "surname": "Pena",
+        "student_id": 5976,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 350,
+        "name": "Green",
+        "surname": "Stephens",
+        "student_id": 1534,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 351,
+        "name": "Contreras",
+        "surname": "Gonzalez",
+        "student_id": 1651,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 352,
+        "name": "Chandler",
+        "surname": "Reyes",
+        "student_id": 1078,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 353,
+        "name": "Young",
+        "surname": "Crawford",
+        "student_id": 9940,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 354,
+        "name": "Hernandez",
+        "surname": "Fuller",
+        "student_id": 7175,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 355,
+        "name": "Marsh",
+        "surname": "Williams",
+        "student_id": 9489,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 356,
+        "name": "Vega",
+        "surname": "Davis",
+        "student_id": 2405,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 357,
+        "name": "Johnson",
+        "surname": "Mack",
+        "student_id": 2815,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 358,
+        "name": "Meyer",
+        "surname": "Phillips",
+        "student_id": 1391,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 359,
+        "name": "Lewis",
+        "surname": "Allison",
+        "student_id": 2779,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 360,
+        "name": "Preston",
+        "surname": "Olson",
+        "student_id": 6708,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 361,
+        "name": "Suarez",
+        "surname": "Wilson",
+        "student_id": 3084,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 362,
+        "name": "Munoz",
+        "surname": "Lee",
+        "student_id": 4529,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 363,
+        "name": "Ramsey",
+        "surname": "Sanchez",
+        "student_id": 8789,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 364,
+        "name": "Anderson",
+        "surname": "Allen",
+        "student_id": 4699,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 365,
+        "name": "Smith",
+        "surname": "Wong",
+        "student_id": 9156,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 366,
+        "name": "Delacruz",
+        "surname": "Thomas",
+        "student_id": 9554,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 367,
+        "name": "Franklin",
+        "surname": "Taylor",
+        "student_id": 4913,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 368,
+        "name": "Santana",
+        "surname": "Pham",
+        "student_id": 9082,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 369,
+        "name": "Bell",
+        "surname": "Villegas",
+        "student_id": 2512,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 370,
+        "name": "Mason",
+        "surname": "Young",
+        "student_id": 9068,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 371,
+        "name": "Jenkins",
+        "surname": "Perez",
+        "student_id": 1594,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 372,
+        "name": "Lee",
+        "surname": "Chambers",
+        "student_id": 4312,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 373,
+        "name": "Thompson",
+        "surname": "White",
+        "student_id": 1506,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 374,
+        "name": "Harvey",
+        "surname": "Smith",
+        "student_id": 3947,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 375,
+        "name": "Monroe",
+        "surname": "Baker",
+        "student_id": 4845,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 376,
+        "name": "Johnson",
+        "surname": "Adams",
+        "student_id": 2959,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 377,
+        "name": "Meyer",
+        "surname": "Atkins",
+        "student_id": 7616,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 378,
+        "name": "Hall",
+        "surname": "Davenport",
+        "student_id": 4729,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 379,
+        "name": "Mendoza",
+        "surname": "Michael",
+        "student_id": 3570,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 380,
+        "name": "Wilkins",
+        "surname": "Jacobson",
+        "student_id": 8796,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 381,
+        "name": "Edward",
+        "surname": "Chandler",
+        "student_id": 5315,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 382,
+        "name": "Hill",
+        "surname": "Singh",
+        "student_id": 4922,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 383,
+        "name": "Nelson",
+        "surname": "Fisher",
+        "student_id": 8695,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 384,
+        "name": "Terrell",
+        "surname": "Hunter",
+        "student_id": 4385,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 385,
+        "name": "Hall",
+        "surname": "Smith",
+        "student_id": 6985,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 386,
+        "name": "Flynn",
+        "surname": "Erickson",
+        "student_id": 2110,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 387,
+        "name": "Hickman",
+        "surname": "Joseph",
+        "student_id": 6762,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 388,
+        "name": "Kristy",
+        "surname": "Williams",
+        "student_id": 1074,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 389,
+        "name": "Berry",
+        "surname": "Brown",
+        "student_id": 9552,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 390,
+        "name": "Hernandez",
+        "surname": "Price",
+        "student_id": 6667,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 391,
+        "name": "Howard",
+        "surname": "Larson",
+        "student_id": 4159,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 392,
+        "name": "Rogers",
+        "surname": "Morrison",
+        "student_id": 9724,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 393,
+        "name": "Lopez",
+        "surname": "Reed",
+        "student_id": 7387,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 394,
+        "name": "Lucas",
+        "surname": "Smith",
+        "student_id": 5284,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 395,
+        "name": "Dalton",
+        "surname": "Walker",
+        "student_id": 4398,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 396,
+        "name": "Smith",
+        "surname": "Ferguson",
+        "student_id": 1423,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 397,
+        "name": "Davis",
+        "surname": "Perkins",
+        "student_id": 4447,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 398,
+        "name": "Cross",
+        "surname": "Macias",
+        "student_id": 1386,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 399,
+        "name": "Warner",
+        "surname": "Roberts",
+        "student_id": 9227,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 400,
+        "name": "White",
+        "surname": "Norris",
+        "student_id": 6344,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 401,
+        "name": "Hebert",
+        "surname": "Jenkins",
+        "student_id": 8920,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 402,
+        "name": "Morales",
+        "surname": "Vaughn",
+        "student_id": 6080,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 403,
+        "name": "Cook",
+        "surname": "Marquez",
+        "student_id": 1292,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 404,
+        "name": "Wheeler",
+        "surname": "Hicks",
+        "student_id": 7818,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 405,
+        "name": "Day",
+        "surname": "Ferrell",
+        "student_id": 6523,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 406,
+        "name": "Soto",
+        "surname": "Gilbert",
+        "student_id": 8627,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 407,
+        "name": "Pittman",
+        "surname": "Manning",
+        "student_id": 8327,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 408,
+        "name": "Herman",
+        "surname": "Brooks",
+        "student_id": 7589,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 409,
+        "name": "Brown",
+        "surname": "Lewis",
+        "student_id": 2093,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 410,
+        "name": "Mccoy",
+        "surname": "Bautista",
+        "student_id": 5475,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 411,
+        "name": "Gibson",
+        "surname": "Hines",
+        "student_id": 3362,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 412,
+        "name": "Johnson",
+        "surname": "White",
+        "student_id": 4514,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 413,
+        "name": "Soto",
+        "surname": "Callahan",
+        "student_id": 3082,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 414,
+        "name": "Hansen",
+        "surname": "Yates",
+        "student_id": 5478,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 415,
+        "name": "Moore",
+        "surname": "Massey",
+        "student_id": 8102,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 416,
+        "name": "Black",
+        "surname": "Benitez",
+        "student_id": 6731,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 417,
+        "name": "Jackson",
+        "surname": "Dunn",
+        "student_id": 3778,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 418,
+        "name": "Shepherd",
+        "surname": "Jones",
+        "student_id": 3648,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 419,
+        "name": "King",
+        "surname": "Macias",
+        "student_id": 8639,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 420,
+        "name": "Booker",
+        "surname": "Crane",
+        "student_id": 4870,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 421,
+        "name": "Wade",
+        "surname": "Williams",
+        "student_id": 7131,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 422,
+        "name": "Allen",
+        "surname": "James",
+        "student_id": 5727,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 423,
+        "name": "Sheppard",
+        "surname": "Robinson",
+        "student_id": 1661,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 424,
+        "name": "Ruiz",
+        "surname": "Griffin",
+        "student_id": 9672,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 425,
+        "name": "Key",
+        "surname": "Tyler",
+        "student_id": 1256,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 426,
+        "name": "Davidson",
+        "surname": "Dixon",
+        "student_id": 1297,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 427,
+        "name": "Robinson",
+        "surname": "Perry",
+        "student_id": 1777,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 428,
+        "name": "Alexander",
+        "surname": "Smith",
+        "student_id": 6621,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 429,
+        "name": "Cox",
+        "surname": "Reed",
+        "student_id": 2160,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 430,
+        "name": "Brown",
+        "surname": "Castillo",
+        "student_id": 8267,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 431,
+        "name": "Miller",
+        "surname": "Schneider",
+        "student_id": 7617,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 432,
+        "name": "Mills",
+        "surname": "Wilson",
+        "student_id": 9280,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 433,
+        "name": "Anderson",
+        "surname": "Harris",
+        "student_id": 9269,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 434,
+        "name": "Brown",
+        "surname": "Burke",
+        "student_id": 9775,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 435,
+        "name": "Franco",
+        "surname": "George",
+        "student_id": 7896,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 436,
+        "name": "Alvarado",
+        "surname": "Summers",
+        "student_id": 2650,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 437,
+        "name": "Hernandez",
+        "surname": "Cruz",
+        "student_id": 8858,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 438,
+        "name": "Beltran",
+        "surname": "Smith",
+        "student_id": 8805,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 439,
+        "name": "Wright",
+        "surname": "Bennett",
+        "student_id": 9344,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 440,
+        "name": "Aguilar",
+        "surname": "Wallace",
+        "student_id": 6477,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 441,
+        "name": "Rodriguez",
+        "surname": "Wheeler",
+        "student_id": 4504,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 442,
+        "name": "Lopez",
+        "surname": "Adams",
+        "student_id": 7669,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 443,
+        "name": "Jones",
+        "surname": "Cunningham",
+        "student_id": 4252,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 444,
+        "name": "Bailey",
+        "surname": "Williams",
+        "student_id": 1572,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 445,
+        "name": "Lee",
+        "surname": "Molina",
+        "student_id": 1437,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 446,
+        "name": "Meza",
+        "surname": "Peterson",
+        "student_id": 1534,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 447,
+        "name": "Parker",
+        "surname": "Murphy",
+        "student_id": 2362,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 448,
+        "name": "Nunez",
+        "surname": "Jennings",
+        "student_id": 8332,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 449,
+        "name": "Snyder",
+        "surname": "Harrison",
+        "student_id": 3552,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 450,
+        "name": "Lambert",
+        "surname": "Black",
+        "student_id": 5078,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 451,
+        "name": "Carey",
+        "surname": "Campbell",
+        "student_id": 4070,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 452,
+        "name": "Allen",
+        "surname": "Oconnor",
+        "student_id": 7817,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 453,
+        "name": "Griffin",
+        "surname": "Cruz",
+        "student_id": 9346,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 454,
+        "name": "Richardson",
+        "surname": "Johnson",
+        "student_id": 3184,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 455,
+        "name": "Parker",
+        "surname": "Taylor",
+        "student_id": 5408,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 456,
+        "name": "Hutchinson",
+        "surname": "Davis",
+        "student_id": 3160,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 457,
+        "name": "Barry",
+        "surname": "Parsons",
+        "student_id": 1766,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 458,
+        "name": "Allen",
+        "surname": "Young",
+        "student_id": 5686,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 459,
+        "name": "Frost",
+        "surname": "Stevens",
+        "student_id": 1703,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 460,
+        "name": "Macdonald",
+        "surname": "Williams",
+        "student_id": 7146,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 461,
+        "name": "Swanson",
+        "surname": "Savage",
+        "student_id": 6459,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 462,
+        "name": "Underwood",
+        "surname": "Rios",
+        "student_id": 6915,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 463,
+        "name": "Walker",
+        "surname": "Torres",
+        "student_id": 2497,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 464,
+        "name": "Smith",
+        "surname": "Tanner",
+        "student_id": 1261,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 465,
+        "name": "Bryant",
+        "surname": "Lopez",
+        "student_id": 2408,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 466,
+        "name": "Johnson",
+        "surname": "Rivera",
+        "student_id": 5125,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 467,
+        "name": "Neal",
+        "surname": "Young",
+        "student_id": 6549,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 468,
+        "name": "Rowe",
+        "surname": "Young",
+        "student_id": 9148,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 469,
+        "name": "Fields",
+        "surname": "Padilla",
+        "student_id": 1324,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 470,
+        "name": "Chan",
+        "surname": "Aguilar",
+        "student_id": 5019,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 471,
+        "name": "Trevino",
+        "surname": "Powell",
+        "student_id": 9318,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 472,
+        "name": "Henry",
+        "surname": "Holmes",
+        "student_id": 9885,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 473,
+        "name": "Norton",
+        "surname": "Whitaker",
+        "student_id": 2722,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 474,
+        "name": "Vega",
+        "surname": "Simpson",
+        "student_id": 9545,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 475,
+        "name": "Sara",
+        "surname": "Reginald",
+        "student_id": 7806,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 476,
+        "name": "Duncan",
+        "surname": "Campbell",
+        "student_id": 8056,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 477,
+        "name": "Fischer",
+        "surname": "Curtis",
+        "student_id": 1848,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 478,
+        "name": "Dalton",
+        "surname": "Romero",
+        "student_id": 5260,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 479,
+        "name": "Jerry",
+        "surname": "Mendoza",
+        "student_id": 1845,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 480,
+        "name": "Harrington",
+        "surname": "Potter",
+        "student_id": 5464,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 481,
+        "name": "Lewis",
+        "surname": "Peterson",
+        "student_id": 2649,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 482,
+        "name": "Powers",
+        "surname": "Johnson",
+        "student_id": 1140,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 483,
+        "name": "Myers",
+        "surname": "Allen",
+        "student_id": 7214,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 484,
+        "name": "Le",
+        "surname": "Gregory",
+        "student_id": 8819,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 485,
+        "name": "Campbell",
+        "surname": "Brooks",
+        "student_id": 9451,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 486,
+        "name": "Brewer",
+        "surname": "Pace",
+        "student_id": 5100,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 487,
+        "name": "Stephenson",
+        "surname": "Chang",
+        "student_id": 1266,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 488,
+        "name": "Roger",
+        "surname": "Cortez",
+        "student_id": 6014,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 489,
+        "name": "Woods",
+        "surname": "Blanchard",
+        "student_id": 5895,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 490,
+        "name": "James",
+        "surname": "Douglas",
+        "student_id": 4262,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 491,
+        "name": "Anderson",
+        "surname": "Sherman",
+        "student_id": 5790,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 492,
+        "name": "Salas",
+        "surname": "Smith",
+        "student_id": 9477,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 493,
+        "name": "Cabrera",
+        "surname": "Clayton",
+        "student_id": 9908,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 494,
+        "name": "Clark",
+        "surname": "Roberts",
+        "student_id": 4226,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 495,
+        "name": "Crawford",
+        "surname": "Montoya",
+        "student_id": 9223,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 496,
+        "name": "Arias",
+        "surname": "Hickman",
+        "student_id": 1048,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 497,
+        "name": "Sullivan",
+        "surname": "Mcfarland",
+        "student_id": 3769,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 498,
+        "name": "Roman",
+        "surname": "Rivers",
+        "student_id": 8213,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 499,
+        "name": "Burke",
+        "surname": "Richards",
+        "student_id": 6966,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 500,
+        "name": "Mclean",
+        "surname": "Floyd",
+        "student_id": 8028,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 501,
+        "name": "Skinner",
+        "surname": "Coleman",
+        "student_id": 5808,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 502,
+        "name": "Robinson",
+        "surname": "Maldonado",
+        "student_id": 2778,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 503,
+        "name": "Johnson",
+        "surname": "Fox",
+        "student_id": 2330,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 504,
+        "name": "Payne",
+        "surname": "Norris",
+        "student_id": 3591,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 505,
+        "name": "Dixon",
+        "surname": "Poole",
+        "student_id": 2016,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 506,
+        "name": "Walton",
+        "surname": "Reeves",
+        "student_id": 8866,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 507,
+        "name": "Woods",
+        "surname": "Rivera",
+        "student_id": 9921,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 508,
+        "name": "Horn",
+        "surname": "Mcmillan",
+        "student_id": 1403,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 509,
+        "name": "Harris",
+        "surname": "Bradshaw",
+        "student_id": 2158,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 510,
+        "name": "Farley",
+        "surname": "Taylor",
+        "student_id": 1479,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 511,
+        "name": "Morrison",
+        "surname": "Duffy",
+        "student_id": 9602,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 512,
+        "name": "Smith",
+        "surname": "Velazquez",
+        "student_id": 5351,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 513,
+        "name": "Emily",
+        "surname": "Miller",
+        "student_id": 8151,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 514,
+        "name": "Russell",
+        "surname": "Thomas",
+        "student_id": 3830,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 515,
+        "name": "Porter",
+        "surname": "Roberts",
+        "student_id": 9966,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 516,
+        "name": "Melendez",
+        "surname": "Jimenez",
+        "student_id": 1477,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 517,
+        "name": "Morris",
+        "surname": "Lara",
+        "student_id": 1047,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 518,
+        "name": "King",
+        "surname": "Cannon",
+        "student_id": 8303,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 519,
+        "name": "Rice",
+        "surname": "Mason",
+        "student_id": 9959,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 520,
+        "name": "Perkins",
+        "surname": "Young",
+        "student_id": 6267,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 521,
+        "name": "Barnett",
+        "surname": "Gutierrez",
+        "student_id": 8593,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 522,
+        "name": "Lewis",
+        "surname": "Summers",
+        "student_id": 3340,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 523,
+        "name": "Rollins",
+        "surname": "Silva",
+        "student_id": 9210,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 524,
+        "name": "Valdez",
+        "surname": "Mathis",
+        "student_id": 3760,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 525,
+        "name": "Wilson",
+        "surname": "Martinez",
+        "student_id": 3784,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 526,
+        "name": "Mason",
+        "surname": "Allen",
+        "student_id": 1567,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 527,
+        "name": "Bush",
+        "surname": "Flynn",
+        "student_id": 6760,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 528,
+        "name": "Garcia",
+        "surname": "Robbins",
+        "student_id": 1953,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 529,
+        "name": "Hicks",
+        "surname": "Nelson",
+        "student_id": 9793,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 530,
+        "name": "Thomas",
+        "surname": "Neal",
+        "student_id": 7973,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 531,
+        "name": "Bullock",
+        "surname": "Casey",
+        "student_id": 8119,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 532,
+        "name": "Bailey",
+        "surname": "Aguilar",
+        "student_id": 5584,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 533,
+        "name": "Murphy",
+        "surname": "Gonzales",
+        "student_id": 5295,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 534,
+        "name": "Foster",
+        "surname": "Blair",
+        "student_id": 7052,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 535,
+        "name": "Miller",
+        "surname": "Clark",
+        "student_id": 9195,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 536,
+        "name": "Stanley",
+        "surname": "Kelly",
+        "student_id": 2891,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 537,
+        "name": "Munoz",
+        "surname": "King",
+        "student_id": 3362,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 538,
+        "name": "Hill",
+        "surname": "Jones",
+        "student_id": 6926,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 539,
+        "name": "Taylor",
+        "surname": "Hamilton",
+        "student_id": 8442,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 540,
+        "name": "House",
+        "surname": "Jones",
+        "student_id": 9784,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 541,
+        "name": "Johnson",
+        "surname": "Campbell",
+        "student_id": 8397,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 542,
+        "name": "Green",
+        "surname": "Richardson",
+        "student_id": 2240,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 543,
+        "name": "Gonzalez",
+        "surname": "Fuller",
+        "student_id": 9761,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 544,
+        "name": "Ortega",
+        "surname": "Harris",
+        "student_id": 3497,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 545,
+        "name": "Taylor",
+        "surname": "Armstrong",
+        "student_id": 8464,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 546,
+        "name": "Trujillo",
+        "surname": "Nichols",
+        "student_id": 2647,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 547,
+        "name": "Knight",
+        "surname": "Gonzalez",
+        "student_id": 4020,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 548,
+        "name": "Ryan",
+        "surname": "Miles",
+        "student_id": 5032,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 549,
+        "name": "Powell",
+        "surname": "Rose",
+        "student_id": 4013,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 550,
+        "name": "Hill",
+        "surname": "Perez",
+        "student_id": 6607,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 551,
+        "name": "Scott",
+        "surname": "Rogers",
+        "student_id": 7610,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 552,
+        "name": "Greene",
+        "surname": "Wright",
+        "student_id": 1850,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 553,
+        "name": "Kelly",
+        "surname": "Hood",
+        "student_id": 1477,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 554,
+        "name": "Conner",
+        "surname": "Carroll",
+        "student_id": 4116,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 555,
+        "name": "Rice",
+        "surname": "Joanne",
+        "student_id": 6800,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 556,
+        "name": "Phillips",
+        "surname": "Schneider",
+        "student_id": 2504,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 557,
+        "name": "Boyd",
+        "surname": "Miller",
+        "student_id": 2173,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 558,
+        "name": "Vega",
+        "surname": "Murphy",
+        "student_id": 9068,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 559,
+        "name": "Torres",
+        "surname": "Burke",
+        "student_id": 8144,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 560,
+        "name": "White",
+        "surname": "Miller",
+        "student_id": 2116,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 561,
+        "name": "Day",
+        "surname": "Clark",
+        "student_id": 8737,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 562,
+        "name": "Wilson",
+        "surname": "Adams",
+        "student_id": 1669,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 563,
+        "name": "Hebert",
+        "surname": "Shah",
+        "student_id": 1321,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 564,
+        "name": "Abbott",
+        "surname": "Morrison",
+        "student_id": 4518,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 565,
+        "name": "Green",
+        "surname": "Gordon",
+        "student_id": 3632,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 566,
+        "name": "Rios",
+        "surname": "Allen",
+        "student_id": 1436,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 567,
+        "name": "Reyes",
+        "surname": "Skinner",
+        "student_id": 6968,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 568,
+        "name": "Benjamin",
+        "surname": "Wilson",
+        "student_id": 4168,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 569,
+        "name": "Cuevas",
+        "surname": "Jensen",
+        "student_id": 5380,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 570,
+        "name": "Johnson",
+        "surname": "Ramirez",
+        "student_id": 4570,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 571,
+        "name": "Steele",
+        "surname": "Stephenson",
+        "student_id": 7746,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 572,
+        "name": "White",
+        "surname": "Ellis",
+        "student_id": 9239,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 573,
+        "name": "Quinn",
+        "surname": "Alvarado",
+        "student_id": 2977,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 574,
+        "name": "Thornton",
+        "surname": "Jimenez",
+        "student_id": 6361,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 575,
+        "name": "Brown",
+        "surname": "May",
+        "student_id": 6439,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 576,
+        "name": "Harrison",
+        "surname": "Davis",
+        "student_id": 8419,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 577,
+        "name": "Lopez",
+        "surname": "Garza",
+        "student_id": 7950,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 578,
+        "name": "Campbell",
+        "surname": "Brown",
+        "student_id": 1822,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 579,
+        "name": "Conrad",
+        "surname": "Mata",
+        "student_id": 8461,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 580,
+        "name": "Hall",
+        "surname": "Hughes",
+        "student_id": 5971,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 581,
+        "name": "Smith",
+        "surname": "Rodriguez",
+        "student_id": 1110,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 582,
+        "name": "Anderson",
+        "surname": "Maldonado",
+        "student_id": 8398,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 583,
+        "name": "Hernandez",
+        "surname": "Nguyen",
+        "student_id": 7797,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 584,
+        "name": "Anderson",
+        "surname": "Price",
+        "student_id": 2494,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 585,
+        "name": "Garcia",
+        "surname": "Leblanc",
+        "student_id": 1583,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 586,
+        "name": "Garcia",
+        "surname": "Bright",
+        "student_id": 1867,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 587,
+        "name": "Edward",
+        "surname": "Nelson",
+        "student_id": 7263,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 588,
+        "name": "Vance",
+        "surname": "Burke",
+        "student_id": 9365,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 589,
+        "name": "Moss",
+        "surname": "Perry",
+        "student_id": 1376,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 590,
+        "name": "Roberts",
+        "surname": "Anderson",
+        "student_id": 9691,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 591,
+        "name": "Thomas",
+        "surname": "Brown",
+        "student_id": 9199,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 592,
+        "name": "Hodges",
+        "surname": "Benjamin",
+        "student_id": 6874,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 593,
+        "name": "Rogers",
+        "surname": "Caldwell",
+        "student_id": 5163,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 594,
+        "name": "Campbell",
+        "surname": "Ortega",
+        "student_id": 5683,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 595,
+        "name": "Fleming",
+        "surname": "Torres",
+        "student_id": 8002,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 596,
+        "name": "Roberts",
+        "surname": "Wagner",
+        "student_id": 7016,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 597,
+        "name": "Thomas",
+        "surname": "Stevens",
+        "student_id": 1535,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 598,
+        "name": "Keller",
+        "surname": "Jones",
+        "student_id": 6521,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 599,
+        "name": "Jensen",
+        "surname": "Gray",
+        "student_id": 9626,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 600,
+        "name": "Davis",
+        "surname": "Mcmillan",
+        "student_id": 9108,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 601,
+        "name": "Smith",
+        "surname": "Rodriguez",
+        "student_id": 6429,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 602,
+        "name": "Sampson",
+        "surname": "Campbell",
+        "student_id": 4627,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 603,
+        "name": "Daugherty",
+        "surname": "Baker",
+        "student_id": 2795,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 604,
+        "name": "Mitchell",
+        "surname": "Rice",
+        "student_id": 2916,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 605,
+        "name": "Houston",
+        "surname": "Carey",
+        "student_id": 2889,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 606,
+        "name": "Wells",
+        "surname": "Woods",
+        "student_id": 8221,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 607,
+        "name": "Harrison",
+        "surname": "Morales",
+        "student_id": 3808,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 608,
+        "name": "Anderson",
+        "surname": "Patterson",
+        "student_id": 8506,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 609,
+        "name": "Ramirez",
+        "surname": "Ortiz",
+        "student_id": 2915,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 610,
+        "name": "Brown",
+        "surname": "Lopez",
+        "student_id": 8542,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 611,
+        "name": "Williams",
+        "surname": "Coleman",
+        "student_id": 3732,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 612,
+        "name": "Lane",
+        "surname": "Hernandez",
+        "student_id": 4319,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 613,
+        "name": "Salazar",
+        "surname": "Russell",
+        "student_id": 9789,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 614,
+        "name": "Irwin",
+        "surname": "Blevins",
+        "student_id": 8000,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 615,
+        "name": "Gonzalez",
+        "surname": "Miller",
+        "student_id": 2093,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 616,
+        "name": "Vega",
+        "surname": "Holt",
+        "student_id": 7776,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 617,
+        "name": "Walters",
+        "surname": "Henderson",
+        "student_id": 1209,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 618,
+        "name": "Smith",
+        "surname": "Parker",
+        "student_id": 4656,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 619,
+        "name": "Quinn",
+        "surname": "Benjamin",
+        "student_id": 6083,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 620,
+        "name": "Palmer",
+        "surname": "Ortega",
+        "student_id": 4483,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 621,
+        "name": "Smith",
+        "surname": "Conner",
+        "student_id": 3374,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 622,
+        "name": "Smith",
+        "surname": "Stevens",
+        "student_id": 8530,
+        "campus": "northest",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 623,
+        "name": "Gomez",
+        "surname": "Crawford",
+        "student_id": 5369,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 624,
+        "name": "Collins",
+        "surname": "Williams",
+        "student_id": 3218,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    },
+    {
+        "id": 625,
+        "name": "Shaw",
+        "surname": "Roy",
+        "student_id": 5414,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 626,
+        "name": "Allen",
+        "surname": "Hernandez",
+        "student_id": 7043,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 627,
+        "name": "Chapman",
+        "surname": "Daniels",
+        "student_id": 7452,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 628,
+        "name": "Espinoza",
+        "surname": "Harvey",
+        "student_id": 9864,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 629,
+        "name": "Larson",
+        "surname": "Pratt",
+        "student_id": 2347,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 630,
+        "name": "Collins",
+        "surname": "Freeman",
+        "student_id": 2097,
+        "campus": "central",
+        "faculty": "information technology",
+        "departement": "information management"
+    },
+    {
+        "id": 631,
+        "name": "Campbell",
+        "surname": "Reynolds",
+        "student_id": 4253,
+        "campus": "eastern",
+        "faculty": "information technology",
+        "departement": "networking"
+    },
+    {
+        "id": 632,
+        "name": "Delacruz",
+        "surname": "Martinez",
+        "student_id": 3576,
+        "campus": "western",
+        "faculty": "information technology",
+        "departement": "software engineering"
+    }
+]
